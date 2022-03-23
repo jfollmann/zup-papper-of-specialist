@@ -180,3 +180,10 @@ class: 'text-center pb-5'
 <img class="h-60 inline-block" src="/qrcode.png"><br>
 <br>
 <small>Apresentação escrita em `markdown` com o [sli.dev](https://sli.dev/)</small>
+
+<div class="grid grid-cols-1">
+  <div class="text-xs">
+    <ri-github-line class="opacity-50"/>
+    <a href="https://github.com/jfollmann/zup-papper-of-specialist" target="_blank">Código disponível no Github</a>
+  </div>
+</div>
