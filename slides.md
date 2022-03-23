@@ -51,6 +51,7 @@ Contexto é `sempre` importante, não é mesmo?
 ---
 
 # Trajetória
+≅ 15 anos de experiência com desenvolvimento de software
 <div class="grid grid-cols-2 gap-x-4">
 
 <v-clicks :every='2'>
@@ -85,8 +86,6 @@ Contexto é `sempre` importante, não é mesmo?
   "stack": ["NodeJS", "Serverless", "Typescript", "AWS"]
 }
 ```
-
-> 15 anos de experiência como desenvolvimento de software
 
 </v-clicks>
 
@@ -137,15 +136,15 @@ Competências técnicas
 
 <v-clicks :every='2'>
 
-- 🚀 `Arquitetura de software` (MVC, Micro Services, Clean Architecture, entre outros)
+- 🚀 `Arquitetura de software` em geral (MVC, Micro Services, Clean Architecture, entre outros)
 - 📌 `TDD`
 - 📑 `Design Patterns`
 - 🔥 Clean Code (`DRY`, `KISS`, `YAGNI`)
 - 🚦 `Code Review`
 - 👀 `Observability`
-- 🎯 IAC (`Infra estrutura como código`)
+- 🎯 IAC (`Infraestrutura como código`)
 - 🌩 Habilidades em `contruir aplicações em cloud`
-- 🏅 Docker
+- 🏅 `Docker`
 - 🔧 Construir aplicações `resilientes` e `tolerantes a falhas`
 
 </v-clicks>
@@ -166,7 +165,7 @@ Competências comportamentais
 - 💡 Capacidade de `transformar ideias em ações`
 - 📈 `Análise de resultados` de coisas implantadas e `usa isso como aprendizado`
 - 🤯 Entender que a `tecnologia é apenas um meio` para resolver um problema
-- 🧘 Autonomia, equilibrio e resolutividade
+- 🧘 `Autonomia`, `equilibrio` e `resolutividade`
 - 🎓 Busca constante por `novas tecnologias` e tenta aplicar no dia a dia
 
 </v-clicks>
