@@ -178,4 +178,6 @@ class: 'text-center pb-5 :'
 
 # Obrigado!
 
-Apresentação escrita em `markdown` com o [sli.dev](https://sli.dev/)
+<img class="h-60 inline-block" src="/qrcode.png"><br>
+<br>
+<small>Apresentação escrita em `markdown` com o [sli.dev](https://sli.dev/)</small>
