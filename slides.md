@@ -138,14 +138,14 @@ Competências técnicas
 <v-clicks :every='2'>
 
 - 🚀 `Arquitetura de software` (MVC, Micro Services, Clean Architecture, entre outros)
-- 📌 `DDD, TDD & BDD`
+- 📌 `TDD`
 - 📑 `Design Patterns`
 - 🔥 Clean Code (`DRY`, `KISS`, `YAGNI`)
 - 🚦 `Code Review`
-- ❇ `Observability`
-- ⚙ IAC (`Infra estrutura como código`)
-- ☁ Habilidades em `contruir aplicações em cloud`
-- 🏅 Docker e orquestração de containers (swarm, k8s)
+- 👀 `Observability`
+- 🎯 IAC (`Infra estrutura como código`)
+- 🌩 Habilidades em `contruir aplicações em cloud`
+- 🏅 Docker
 - 🔧 Construir aplicações `resilientes` e `tolerantes a falhas`
 
 </v-clicks>
@@ -163,9 +163,9 @@ Competências comportamentais
 - 🤩 `Empatia` e `saber ouvir`
 - 🏹 `Compartilha` conhecimento
 - 💎 `Comunicação` de forma clara e objetiva
-- ❇ Capacidade de `transformar ideias em ações`
+- 💡 Capacidade de `transformar ideias em ações`
 - 📈 `Análise de resultados` de coisas implantadas e `usa isso como aprendizado`
-- 💡 Entender que a `tecnologia é apenas um meio` para resolver um problema
+- 🤯 Entender que a `tecnologia é apenas um meio` para resolver um problema
 - 🧘 Autonomia, equilibrio e resolutividade
 - 🎓 Busca constante por `novas tecnologias` e tenta aplicar no dia a dia
 
@@ -173,7 +173,7 @@ Competências comportamentais
 
 ---
 layout: center
-class: 'text-center pb-5 :'
+class: 'text-center pb-5'
 ---
 
 # Obrigado!
