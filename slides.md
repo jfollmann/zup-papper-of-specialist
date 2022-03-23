@@ -115,15 +115,11 @@ Qual `projeto` estou inseridor ?
   - `Validar hipóteses` o quanto antes;
   - Aprender com os `próprios erros`;
   - Trazer `diferencial competitivo` ao Itaú;
-  - Trabalhar em um ambiente `menos burocráticos`;
+  - Ambiente `menos burocráticos`;
   - Projetos de `6 meses`;
 
   </div>
 </div>
-<!-- Validação de hipóteses
-
-- Testar e validar hipóteses para propor novos negócios para o banco
-- Projetos de `6 meses` -->
 
 ---
 layout: center
