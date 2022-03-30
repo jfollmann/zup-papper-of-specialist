@@ -104,6 +104,7 @@ Qual `projeto` estou inseridor ?
 ---
 
 # Itaú: Venture Builder
+Errar rápido e errar barato, uma vez que o erro também significa aprendizado
 
 <div class="grid grid-cols-[2fr,2fr] gap-4">
   <div class="text-center pb-4">
@@ -149,6 +150,12 @@ Competências técnicas
 
 </v-clicks>
 
+<!--
+- Especialista não é saber apenas 1 coisa, mas sim entender o por que e quando aplicar cada coisa;
+- Entender o por que as decisões são tomandas, prós e contras;
+- Foco em estudos atemporais
+-->
+
 ---
 
 # Soft skills
@@ -169,6 +176,24 @@ Competências comportamentais
 - 🎓 Busca constante por `novas tecnologias` e tenta aplicar no dia a dia
 
 </v-clicks>
+
+<!--
+- Interação do Especialista com o time
+- Se posiciona bem;
+- Veste a camisa;
+- Eleva a régua do time;
+- É posto como especialista de forma imposta. O importânte é ter ciência disso e com base no conjuto de ações se tornar uma liderança (informal) aceita pelo time;
+- Senso forte de pertencimento;
+- Não está ali por que é o melhor, mas sim por que tem mais maturidade e cicatrizes que o jr, pleno talvez ainda não tenham;
+-->
+
+---
+layout: center
+class: text-center
+---
+
+# "O especialista é um homem que sabe cada vez mais sobre cada vez menos, e por fim acaba sabendo tudo sobre nada."
+George Bernard Shaw
 
 ---
 layout: center
